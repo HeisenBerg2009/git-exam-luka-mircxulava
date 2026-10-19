@@ -10,6 +10,12 @@ h1 {
     color: #1877f2;
 }
 
+h2 {
+    font-size: medium;
+    color: aquamarine;
+    background-color: #222;
+}
+
 p {
     background-color: #1877f2;
     color: green;
