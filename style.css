@@ -9,3 +9,8 @@ body {
 h1 {
     color: #1877f2;
 }
+
+p {
+    background-color: #1877f2;
+    color: green;
+}
